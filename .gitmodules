@@ -1,0 +1,12 @@
+[submodule "tuya-home-android-sdk-sample-kotlin"]
+	path = tuya-home-android-sdk-sample-kotlin
+	url = git@github.com:tuya/tuya-home-android-sdk-sample-kotlin.git
+[submodule "tuya-home-android-sdk-sample-java"]
+	path = tuya-home-android-sdk-sample-java
+	url = git@github.com:tuya/tuya-home-android-sdk-sample-java.git
+[submodule "tuya-home-ios-sdk-sample-objc"]
+	path = tuya-home-ios-sdk-sample-objc
+	url = git@github.com:tuya/tuya-home-ios-sdk-sample-objc.git
+[submodule "tuya-home-ios-sdk-sample-swift"]
+	path = tuya-home-ios-sdk-sample-swift
+	url = git@github.com:tuya/tuya-home-ios-sdk-sample-swift.git
